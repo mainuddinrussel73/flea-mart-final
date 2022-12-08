@@ -1,7 +1,7 @@
 argon2==0.1.10
 argon2-cffi==16.3.0
 bootstrap-admin==0.3.7.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.11.2
 chardet==3.0.4
 Django==1.11.3
